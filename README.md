@@ -3,10 +3,10 @@
 This program is a project carried out for the process engineering class in which we had to observe the process of a company, in our case we observe the Mabamex process,
 We carry out 4 modules for this project:
 
-1.- Sales module.
-2.- Purchasing module.
-3.- Purchasing manager module.
-4.- Operation module.
+- Sales module.
+- Purchasing module.
+- Purchasing manager module.
+- Operation module.
 
 The one I present below is the sales module:
 
